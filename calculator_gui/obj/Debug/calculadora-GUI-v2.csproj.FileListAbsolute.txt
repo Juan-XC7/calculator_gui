@@ -1,0 +1,9 @@
+C:\Users\juanp\source\repos\calculadora-GUI-v2\bin\Debug\calculadora-GUI-v2.exe
+C:\Users\juanp\source\repos\calculadora-GUI-v2\bin\Debug\calculadora-GUI-v2.pdb
+C:\Users\juanp\source\repos\calculadora-GUI-v2\obj\Debug\calculadora-GUI-v2.csproj.AssemblyReference.cache
+C:\Users\juanp\source\repos\calculadora-GUI-v2\obj\Debug\calculadora_GUI_v2.Form1.resources
+C:\Users\juanp\source\repos\calculadora-GUI-v2\obj\Debug\calculadora_GUI_v2.Properties.Resources.resources
+C:\Users\juanp\source\repos\calculadora-GUI-v2\obj\Debug\calculadora-GUI-v2.csproj.GenerateResource.cache
+C:\Users\juanp\source\repos\calculadora-GUI-v2\obj\Debug\calculadora-GUI-v2.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\calculadora-GUI-v2\obj\Debug\calculadora-GUI-v2.exe
+C:\Users\juanp\source\repos\calculadora-GUI-v2\obj\Debug\calculadora-GUI-v2.pdb
